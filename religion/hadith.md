@@ -60,5 +60,3 @@ The goal of this project is to collect datasets in PDF, image, text, and JSON fo
 - Begin expert outreach and compile recommendations.  
 - Simultaneously search for PDFs and draft permission request letters.  
 - Once permissions are obtained, initiate **data extraction and structuring**.  
-
-Would you like me to draft a sample permission request letter for publishers?
